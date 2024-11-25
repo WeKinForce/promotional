@@ -1,5 +1,5 @@
 # Promotional Assets
 Contributors: KinForce🎖️
 
-## === Description ===
+## Description
 Here, we manage and organize all promotional assets for our products effectively.
